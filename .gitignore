@@ -1,0 +1,24 @@
+# Python virtual environment
+backend/pmrz/
+
+# Python bytecode
+__pycache__/
+*.pyc
+*.pyo
+
+# YOLOv8 model weights (large file)
+*.pt
+
+# Node modules
+node_modules/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Environment variables
+.env
